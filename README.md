@@ -29,7 +29,7 @@
 ## About Me  
 - 🌍 Based in **Lagos, Nigeria**  
 - 🎓 Currently learning **Full Stack Development**  
-- 🏆 Achievements: Certificate in Data Structures & Algorithms   
+- 🏆 Achievements: **Certificate in Data Structures & Algorithms**   
 - 🍴 Loves **coding**, **reading**, and **learning more**  
 
 ---
