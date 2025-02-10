@@ -7,7 +7,6 @@
 ---
 
 ## Languages and Tools  
-## Languages and Tools  
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
