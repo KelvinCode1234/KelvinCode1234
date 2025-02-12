@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Precious Kelvin Nwaogu
 
-🎯 **Full-Stack Developer (Html5/Css3/React/Node.js/MongoDB)**  
+🎯 **Front-end Engineer (Html5/Css3/React/Node.js/MongoDB)**  
 🌟 **Coding Enthusiast | Game Lover | Sports Fanatic**  
 💡 **Lifelong Learner in Web Development and Mobile Responsiveness**  
 
