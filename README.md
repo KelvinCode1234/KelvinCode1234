@@ -34,11 +34,7 @@
 - 🏆 Achievements: **Certificate in Data Structures & Algorithms**   
 - 🍴 Loves **coding**, **reading**, and **learning more**  
 
----
-
-## 🚀 Featured Projects  
-### [Sunny Lake](https://sunnylake-site.webflow.io/)  
-🔹 A serene lake simulation with realistic effects and peaceful sounds. Designed with Webflow, i love this project ❤️🔥     
+---     
 
 ### [Nike E-commerce Website](https://nike-e-commerce.vercel.app/)  
 🔹 A stylish online shopping experience. Sample project 😎  
