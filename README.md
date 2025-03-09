@@ -43,4 +43,4 @@
 
 ## 📬 Connect with Me  
 - 📧 Email: precykelly345@gmail.com  
-- 🧑‍💻 Portfolio: [Portfolio](https://preciouskelvin-site.vercel.app/)  
+- 🧑‍💻 Portfolio: [My Portfolio](https://preciouskelvin-site.vercel.app/)  
