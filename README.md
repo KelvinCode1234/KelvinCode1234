@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Precious Kelvin Nwaogu
 
-🎯 **Front-End Engineer and Designer (Html5/Css3/React/Node.js/MongoDB)**  
+🎯 **Software Developer and Designer (Html5/Css3/React/Node.js/MongoDB)**  
 🌟 **Coding Enthusiast | AI Researcher**  
 💡 **Lifelong Learner in Web Development and Mobile Responsiveness**  
 
