@@ -37,7 +37,7 @@
 
 ---     
 
-### [Nike E-commerce Website](https://www.onychair.com/)
+### [ONYC Website](https://www.onychair.com/)
 🔹 A stylish online shopping experience real sales integration. I so much love this project😎
 
 ---
