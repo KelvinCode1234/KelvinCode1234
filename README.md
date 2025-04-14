@@ -18,14 +18,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white) 
 ![Vite](https://img.shields.io/badge/-Vite-darkblue?style=flat-square&logo=vite&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats  
-![Precious Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinCode1234&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinCode1234&layout=compact&theme=tokyonight)  
-
 ---
 
 ## About Me  
