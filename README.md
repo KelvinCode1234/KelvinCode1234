@@ -34,5 +34,5 @@
 ---
 
 ## 📬 Connect with Me  
-- 📧 Email: precykelly345@gmail.com  
+- 📧 Email: contact@preciouskelvin.online 
 - 🧑‍💻 Portfolio: [Preciouskelvin](https://www.preciouskelvin.online/)  
