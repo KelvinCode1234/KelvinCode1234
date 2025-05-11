@@ -8,7 +8,7 @@
 
 ---
 
-## Languages and Tools  
+## 📶 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) 
@@ -34,7 +34,7 @@
 </a>
 
 
-## Favorite Project
+## 🔥 Favorite Project
 ### [ONYC Hair.com](https://www.onychair.com/)
 🔹 A stylish online shopping experience real sales integration. I so much love this project😎
 
