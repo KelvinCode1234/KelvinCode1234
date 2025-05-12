@@ -20,7 +20,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-darkblue?style=flat-square&logo=vite&logoColor=white)
 ---
 
-## About Me  
+## 🧑‍💼 About Me  
 - 🌍 Based in **Lagos, Nigeria**  
 - 🎓 Currently learning **Full Stack Development**  
 - 🏆 Achievements: **Certificate in Data Structures & Algorithms**   
