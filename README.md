@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Precious Kelvin Nwaogu
+# Hello there 👋
 
  **Frontend Developer, Engineer and Designer (Html5/Css3/React/Node.js/MongoDB/Typescript/Firebase)** 
  
