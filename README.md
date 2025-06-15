@@ -5,19 +5,6 @@
  **Coding Enthusiast | AI Researcher** 
  
  **Lifelong Learner in Web Development and Mobile Responsiveness** 
-
----
-
-## 📶 Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwindcss&logoColor=white) 
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white) 
-![Vite](https://img.shields.io/badge/-Vite-darkblue?style=flat-square&logo=vite&logoColor=white)
 ---
 
 ## 🧑‍💼 About Me  
