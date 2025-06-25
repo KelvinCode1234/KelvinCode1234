@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 About Me  
 - 🌍 Based in **Lagos, Nigeria**  
-- 🎓 Currently learning **Full Stack Development**  
+- 🎓 Currently learning **AI Engineering**  
 - 🏆 Achievements: **Certificate in Data Structures & Algorithms**   
 - 🍴 Loves **coding**, **reading**, and **learning more**  
 
