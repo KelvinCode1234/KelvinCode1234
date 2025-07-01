@@ -15,17 +15,12 @@
 - 🍴 Loves **coding**, **reading**, and **learning more**  
 
 ---     
-
 ## 📊 Github Stat
-<a href="https://github.com/KelvinCode1234"
-   target="_blank"
-   rel="noopener noreferrer"
-   title="Check out Kelvin's GitHub contributions!">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"](https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&theme=dark)
+
+<a href="https://github.com/KelvinCode1234">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&theme=dark"
        width="45%"
-       alt="KelvinCode1234's GitHub Streak Stats"
-       loading="lazy"
-       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+       alt="GitHub Streak Stats">
 </a>
 
 
