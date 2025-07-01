@@ -21,7 +21,7 @@
    target="_blank"
    rel="noopener noreferrer"
    title="Check out Kelvin's GitHub contributions!">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"](https://github-readme-streak-stats.herokuapp.com/?user=KelvinCode1234&theme=dark)
        width="45%"
        alt="KelvinCode1234's GitHub Streak Stats"
        loading="lazy"
