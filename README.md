@@ -8,7 +8,8 @@
 
 
 ```markdown
-Hi there 👋  
+**Hi there 👋**  
+
 I'm Kelvin, a Frontend Developer, Engineer and Designer (React/Next/Node.js/MongoDB/Typescript/Firebase, UI-Libraries).
 
 Coding Enthusiast | AI Researcher
