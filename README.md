@@ -7,5 +7,5 @@ Coding Enthusiast | AI Researcher
 
 Lifelong Learner in Web Development and Mobile Responsiveness
 
-You can reach out to me via my Twitter handle @KelvinCode1234
+You can reach out to me via my Twitter handle [Precious Kelvin.N](https://x.com/Kellypr74147323)
 ```
