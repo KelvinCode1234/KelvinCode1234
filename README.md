@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there 👋
 
  **Frontend Developer, Engineer and Designer (React/Next/Node.js/MongoDB/Typescript/Firebase,UI-Libaries)** 
  
