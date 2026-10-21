@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Kelvin, a Shopify & Software Developer, Engineer and Designer  
-Lifelong Learner in Software Development and Mobile Responsiveness
+I'm Kelvin, a Shopify & Software Developer, Engineer and EdTech Founder. 
+Building Fast, Mobile-First Web Apps
 
 Missed me on Github?.....I work with Vercel lately.....
